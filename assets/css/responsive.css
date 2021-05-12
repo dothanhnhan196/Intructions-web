@@ -117,6 +117,13 @@
     .card {
         margin-bottom: 1.5em;
     }
+    /* Testimonials */
+    .testimoials-slider {
+        margin: 0 1em;
+    }
+    .feedback-user {
+        width: 57%;
+    }
     /* News */
     .img-fluid {
         margin-bottom: 1.5em;
@@ -196,6 +203,10 @@
     .agileinfo-head {
         font-size: 1.5em
     }
+    /* Testimonials */
+    .feedback-user {
+        width: 84%;
+    }
     /* News */
     .new-info h5 a {
         letter-spacing: 0;
@@ -249,6 +260,10 @@
     .carousel-caption .btn {
         margin: 0;
         font-size: 0.8em;
+    }
+    /* Testimonials */
+    .feedback-user {
+        width: 65%;
     }
 }
 
